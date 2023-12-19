@@ -1,0 +1,67 @@
+2023-12-15 05:23:49,890 [main] INFO  myLogger - This is an info message
+2023-12-15 05:25:00,840 [main] INFO  myLogger - This is an info message
+2023-12-15 05:25:00,842 [main] ERROR myLogger - This is an error message
+2023-12-15 05:26:27,012 [main] INFO  myLogger - This is an info message
+2023-12-15 05:26:27,014 [main] WARN  myLogger - This is a warning message
+2023-12-15 05:26:27,014 [main] ERROR myLogger - This is an error message
+2023-12-15 05:26:27,014 [main] FATAL myLogger - This is a fatal message
+2023-12-15 05:29:38,681 [main] INFO  myLogger - This is an info message
+2023-12-15 05:29:38,683 [main] WARN  myLogger - This is a warning message
+2023-12-15 05:29:38,683 [main] ERROR myLogger - This is an error message
+2023-12-15 05:29:38,683 [main] FATAL myLogger - This is a fatal message
+2023-12-15 05:29:38,688 [main] FATAL myLogger - WELCOME
+2023-12-15 05:30:37,065 [main] FATAL myLogger - WELCOME
+2023-12-15 05:31:20,152 [main] FATAL myLogger - WELCOME
+2023-12-15 05:35:51,975 [main] INFO  myLogger - This is an info message
+2023-12-15 05:35:51,977 [main] WARN  myLogger - This is a warning message
+2023-12-15 05:35:51,977 [main] ERROR myLogger - This is an error message
+2023-12-15 05:35:51,977 [main] FATAL myLogger - This is a fatal message
+2023-12-15 05:35:51,984 [main] FATAL myLogger - WELCOME
+2023-12-15 05:35:59,872 [main] ERROR myLogger - Error occurred while adding pair: You need to enter exactly 2 words!
+2023-12-15 05:37:34,182 [main] INFO  myLogger - This is an info message
+2023-12-15 05:37:34,183 [main] WARN  myLogger - This is a warning message
+2023-12-15 05:37:34,183 [main] ERROR myLogger - This is an error message
+2023-12-15 05:37:34,184 [main] FATAL myLogger - This is a fatal message
+2023-12-15 05:37:34,185 [main] INFO  myLogger - Added dictionary: {star=зірка, honey=мед, cat=кішка, get=отримати, meat=м'ясо, eat=їсти, dog=пес}
+2023-12-15 05:37:34,192 [main] FATAL myLogger - WELCOME
+2023-12-15 05:37:46,715 [main] INFO  myLogger - Translated phrase 'пес патрон' to: 'no translation no translation'
+2023-12-15 05:43:03,403 [main] INFO  myLogger - This is an info message
+2023-12-15 05:43:03,404 [main] WARN  myLogger - This is a warning message
+2023-12-15 05:43:03,404 [main] ERROR myLogger - This is an error message
+2023-12-15 05:43:03,405 [main] FATAL myLogger - This is a fatal message
+2023-12-15 05:43:03,406 [main] INFO  myLogger - Added dictionary: {star=зірка, honey=мед, cat=кішка, get=отримати, meat=м'ясо, eat=їсти, dog=пес}
+2023-12-15 05:43:03,413 [main] FATAL myLogger - WELCOME
+2023-12-15 05:43:09,790 [main] ERROR myLogger - Index must be from 0 to 2
+2023-12-15 05:44:04,968 [main] INFO  myLogger - Added dictionary: {star=зірка, honey=мед, cat=кішка, get=отримати, meat=м'ясо, eat=їсти, dog=пес}
+2023-12-15 05:44:04,975 [main] FATAL myLogger - WELCOME
+2023-12-15 05:44:17,158 [main] INFO  myLogger - Added new pair: pes -> пес
+2023-12-15 05:44:27,777 [main] INFO  myLogger - Translated phrase 'pes patron' to: 'пес no translation'
+2023-12-15 05:44:45,321 [main] FATAL myLogger - WELCOME
+2023-12-15 05:44:55,183 [main] FATAL myLogger - WELCOME
+2023-12-15 05:44:58,244 [main] ERROR myLogger - Index must be from 0 to 2
+2023-12-15 05:47:28,077 [main] INFO  myLogger - Added dictionary: {star=зірка, honey=мед, cat=кішка, get=отримати, meat=м'ясо, eat=їсти, dog=пес}
+2023-12-15 05:47:38,914 [main] INFO  myLogger - Added new pair: пес -> pes
+2023-12-15 05:47:50,277 [main] INFO  myLogger - Added new pair: патрон -> patron
+2023-12-15 05:48:20,445 [main] ERROR myLogger - Error occurred while adding pair: You need to enter exactly 2 words!
+2023-12-15 05:48:46,541 [main] ERROR myLogger - Index must be from 0 to 2
+2023-12-15 05:48:50,561 [main] INFO  myLogger - Changed language to bee
+2023-12-15 05:49:07,424 [main] INFO  myLogger - Translated phrase 'пес патрон' to: 'pes patron'
+2023-12-15 08:32:41,914 [main] INFO  myLogger - Added dictionary: {star=зірка, honey=мед, cat=кішка, get=отримати, meat=м'ясо, eat=їсти, dog=пес}
+2023-12-15 08:32:41,923 [main] INFO  myLogger - App started
+2023-12-15 08:32:50,973 [main] INFO  myLogger - Added new pair: add -> додати
+2023-12-15 08:33:00,429 [main] INFO  myLogger - Translated phrase 'пес патрон' to: 'no translation no translation'
+2023-12-15 08:33:07,922 [main] INFO  myLogger - Changed language to Ukrainian
+2023-12-15 08:33:15,031 [main] ERROR myLogger - Error occurred while adding pair: You need to enter exactly 2 words!
+2023-12-15 08:33:28,549 [main] ERROR myLogger - Index must be from 0 to 2
+2023-12-15 08:33:32,593 [main] INFO  myLogger - Exited application.
+2023-12-15 09:52:21,013 [main] INFO  myLogger - Added dictionary: {star=зірка, honey=мед, cat=кішка, get=отримати, meat=м'ясо, eat=їсти, dog=пес}
+2023-12-15 09:52:21,036 [main] INFO  myLogger - App started
+2023-12-15 09:52:28,199 [main] ERROR myLogger - Error occurred while adding pair: You need to enter exactly 2 words!
+2023-12-15 09:52:39,757 [main] INFO  myLogger - Added new pair: as -> as
+2023-12-15 09:52:42,308 [main] INFO  myLogger - Exited application.
+2023-12-15 09:55:22,535 [main] INFO  myLogger - Added dictionary: {star=зірка, honey=мед, cat=кішка, get=отримати, meat=м'ясо, eat=їсти, dog=пес}
+2023-12-15 09:55:22,545 [main] INFO  myLogger - App started
+2023-12-15 09:55:28,327 [main] INFO  myLogger - Changed language to Ukrainian
+2023-12-15 09:55:41,509 [main] INFO  myLogger - Changed language to English
+2023-12-15 09:55:46,495 [main] INFO  myLogger - Changed language to bee
+2023-12-15 09:55:50,393 [main] INFO  myLogger - Exited application.
